@@ -1,0 +1,6 @@
+temp
+
+/var/www > temp
+sql > temp
+
+temp > /root/backup/2020-8-6,13:47:21.zip
